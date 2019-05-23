@@ -37,9 +37,9 @@ yarn install
 yarn sandbox
 ```
 
-Conversely, you can also use CodeSandbox, although the version there is out-of-date at the moment:
+Conversely, you can also use GitPod:
 
-[![Edit @sur-la-table/slt-ui](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/SurLaTable/slt-ui/tree/0b63e06d14b42cc5f91739dff90a09ed747b1e93)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/georgetown-labs/ui)
 
 ## Building:
 
